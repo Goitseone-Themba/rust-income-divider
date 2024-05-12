@@ -1,4 +1,4 @@
-# Income Divider
+# Rust Income Divider
 
 A Rust desktop application that's using [Slint](https://slint.rs) for the user interface.
 
