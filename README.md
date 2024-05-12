@@ -1,6 +1,6 @@
-# Slint Rust Template
+# Income Divider
 
-A template for a Rust application that's using [Slint](https://slint.rs) for the user interface.
+A Rust application that's using [Slint](https://slint.rs) for the user interface.
 
 ## About
 
