@@ -10,14 +10,13 @@ This simple app is a business income divider. It takes the input amount and divi
 
 1. Install Rust by following the [Rust Getting Started Guide](https://www.rust-lang.org/learn/get-started).
    Once this is done, you should have the ```rustc``` compiler and the ```cargo``` build system installed in your path.
-2. Install [`cargo-generate`](https://github.com/cargo-generate/cargo-generate)
+2. Clone this project with 
     ```
-    cargo install cargo-generate
+    git clone https://github.com/Goitseone-Themba/rust-income-divider.git
     ```
-3. Set up a sample project with this template
+3. Move into the cloned directory with
     ```
-    cargo generate --git https://github.com/slint-ui/slint-rust-template --name my-project
-    cd my-project
+    cd rust-income-divider
     ```
 3. Build with cargo
     ```
